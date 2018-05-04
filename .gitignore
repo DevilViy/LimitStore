@@ -2,8 +2,7 @@
 
 .idea
 .vscode
-#backend/backend
-
+backend/backend
 backend/main
 backend/config.json
 LimitApp/src/services/config.json
